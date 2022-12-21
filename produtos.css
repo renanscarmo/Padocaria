@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+  
+    list-style: none;
+    font-family: Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+body{
+    background-image: linear-gradient(to right,  #f1d8c9, #f2c3a7 ,#ffff);
+    
+}
+
+main {
+   width: 60%;
+    height: 600px;
+    
+    margin: auto;
+    
+    
+    
+
+    
+}
+main section img {
+    
+    
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+}
